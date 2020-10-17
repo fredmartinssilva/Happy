@@ -1,0 +1,16 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+assets-aula-3/
+assets-aula-5/
+src/web/node_modules/
+src/app/node_modules/
+src/api/node_modules/
+src/api/uploads/
